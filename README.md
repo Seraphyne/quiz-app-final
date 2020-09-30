@@ -12,8 +12,8 @@ _Quiz App_ was created with the intent to show a simple quiz that the user can a
 
 ### 📌🔗 Links:
 
-* Quiz App: [Github](https://github.com/Seraphyne/thinkful-quiz-app)
-* Live: [Quiz App](https://seraphyne.github.io/thinkful-quiz-app/)
+* Quiz App: [Github](https://github.com/Seraphyne/quiz-app-final)
+* Live: [Quiz App](https://seraphyne.github.io/quiz-app-final/)
 
 ### 📌📇 Contact: 
 <hr> 
